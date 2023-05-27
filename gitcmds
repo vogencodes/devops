@@ -1,2 +1,5 @@
-git status # displays status of git repo
+git status # displays location of files in developer environment
 git init   # initializes a local repo
+git add    # moves file from workingArea to stagingArea
+git log    # displays all commits
+git commit -m #moves file from staging area to local repo
