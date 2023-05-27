@@ -1,0 +1,2 @@
+git status # displays status of git repo
+git init   # initializes a local repo
